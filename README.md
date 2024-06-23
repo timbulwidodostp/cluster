@@ -1,6 +1,8 @@
 # cluster
 Hierarchical Cluster Analysis Use cluster With STATA 18
 
+https://www.youtube.com/watch?v=hKp3ghf89Dw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
